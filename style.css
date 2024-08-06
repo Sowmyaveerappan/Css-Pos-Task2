@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding:0
+}
+.bell{
+    border: solid black 1px;
+    width: fit-content;
+    margin: 10px;
+    position: relative;
+}
+.image{
+    width: 300px;
+    
+}
+.num{
+    background-color: red;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 30px;
+    position: absolute;
+    top: 0;
+    right: 60px;
+
+
+}
